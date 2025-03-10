@@ -1,0 +1,56 @@
+*{
+    /* background-color: black; */
+    /* color: white; */
+}
+
+.pic{
+    background-image: url('./images/gourmet-grilled-meat-plate-glowing-with-heat-generated-by-ai_188544-24644.avif');
+    height: 700px;
+    background-repeat: no-repeat;
+    
+}
+
+
+
+#spinner{
+    border: 1px solid rgb(0, 0, 0);
+    height: 700px;
+    width: 1508px;
+}
+
+#get h1{
+    color: white;
+    text-align: center;
+    font-weight: 900;
+    font-size: 30px;
+}
+#form input{
+    width: 80%;
+    margin-left: 150px;
+}
+#form textarea{
+    height: 300px;
+    width: 80%;
+    margin-left: 150px;
+}
+#form button{
+    font-size: 15px;
+    font-weight: 700;
+    padding: 10px;
+    margin-left: 150px;
+}
+.row{
+    height: 110%;
+}
+
+#maps{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    font-weight: 100;
+}
+
+#maps iframe,p{
+    padding: 0px;
+    margin-top: 90px;
+    margin-left:150px;
+}
